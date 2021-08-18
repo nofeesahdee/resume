@@ -156,4 +156,11 @@ body{
         margin: 10px;
         grid-template-columns: repeat(1,1fr);
     }
+     .container .right-side{
+     display: flex;
+     flex-direction: column;
+    }
+    .about .box .text{
+        margin-top:20px ;
+    }
 }
